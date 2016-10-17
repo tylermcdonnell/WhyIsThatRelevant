@@ -10,7 +10,7 @@ AAAI HCOMP 2016
 https://www.ischool.utexas.edu/~ml/papers/mcdonnell-hcomp16.pdf
 
 ```
-@inproceedings{Nguyen16-hcomp,
+@inproceedings{mcdonnell16-hcomp,
   author = {Tyler McDonnell and Matthew Lease and Mucahid Kutli and Tamer Elsayed},
   title = {{Why Is That Relevant? Collecting Annotator Rationales for Relevance Judgments}},
   booktitle = {{Proceedings of the 4th AAAI Conference on Human Computation and Crowdsourcing (HCOMP)}},
