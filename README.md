@@ -2,11 +2,11 @@
 
 Dataset for our paper:
 
-'''
+```
 Why Is That Relevant? Collecting Annotator Rationales for Relevance Judgments
 Tyler McDonnell, Matthew Lease, Mucahid Kutlu, Tamer Elsayed
 AAAI HCOMP 2016
-'''
+```
 https://www.ischool.utexas.edu/~ml/papers/mcdonnell-hcomp16.pdf
 
 ```
