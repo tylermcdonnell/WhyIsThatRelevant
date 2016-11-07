@@ -27,9 +27,6 @@ Why Is That Relevant?: Dataset collected to investigate use of annotator rationa
 
 ### Introduction
 
-The data in this spreadsheet is a companion to the paper:
-T. McDonnell, M. Lease, M. Kutlu, T. Elsayed, "Why Is That Relevant? Collecting Annotator Rationales for Relevance Judgments", in the 4th AAAI Conference on Human Computation & Crowdsourcing (HCOMP), 2016.
-
 The data is contained in the following PIPE-DELIMITED .csv files.
 
 ### standard.csv
