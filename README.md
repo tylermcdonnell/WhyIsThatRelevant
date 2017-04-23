@@ -16,7 +16,7 @@ Please cite our paper whenever you use this data in any publication or presentat
 
 ```
 @inproceedings{mcdonnell16-hcomp,
-  author = {Tyler McDonnell and Matthew Lease and Mucahid Kutli and Tamer Elsayed},
+  author = {Tyler McDonnell and Matthew Lease and Mucahid Kutlu and Tamer Elsayed},
   title = {{Why Is That Relevant? Collecting Annotator Rationales for Relevance Judgments}},
   booktitle = {{Proceedings of the 4th AAAI Conference on Human Computation and Crowdsourcing (HCOMP)}},
   year = {2016}
