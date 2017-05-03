@@ -2,6 +2,8 @@
 
 For questions about this repository or dataset, email tmcdonnell@utexas.edu
 
+IMPORTANT NOTE 5/2/2017: It has come to my attention that there is data missing from this collection. I am in the process of trying to resolve this issue, but now, I have temporarily taken down the (incomplete) data which was previously available at this location. If you are hoping to use this data now or have any questions, please email tmcdonnell@utexas.edu.
+
 Dataset for our paper:
 
 ```
